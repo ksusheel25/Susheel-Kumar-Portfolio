@@ -1,0 +1,60 @@
+{
+  "skills": [
+    {
+      "category": "Backend",
+      "items": [
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "Spring Data JPA",
+        "Spring Security",
+        "REST APIs",
+        "Microservices",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Microsoft SQL Server",
+        "Oracle SQL",
+        "DB2 Database"
+      ]
+    },
+    {
+      "category": "Frontend",
+      "items": [
+        "React",
+        "TypeScript",
+        "JavaScript (ES6+)",
+        "Tailwind CSS",
+        "Responsive Design",
+        "Redux",
+        "React Hooks"
+      ]
+    },
+    {
+      "category": "DevOps & Tools",
+      "items": [
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "Maven",
+        "Gradle",
+        "Jenkins",
+        "Linux",
+        "AWS",
+        "GCP",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "category": "Methodologies",
+      "items": [
+        "Agile/Scrum",
+        "TDD",
+        "Clean Code",
+        "System Design",
+        "API Design",
+        "Performance Optimization"
+      ]
+    }
+  ]
+}

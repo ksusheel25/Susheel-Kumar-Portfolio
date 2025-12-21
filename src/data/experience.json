@@ -1,0 +1,28 @@
+{
+  "experience": [
+    {
+      "id": "exp-001",
+      "company": "InspironLabs Software Systems Private Limited",
+      "position": "Full Stack Developer",
+      "duration": "2 years",
+      "startDate": "2024-01",
+      "endDate": "present",
+      "description": "Developed enterprise-scale applications with microservices architecture. Designed and maintained robust REST APIs using Spring Boot, implemented responsive React-TypeScript frontends, and collaborated with cross-functional teams on DevOps integration. Worked extensively with RabbitMQ, Kafka, PostgreSQL, Docker, Kubernetes, and cloud platforms (GCP, AWS). Participated in architectural reviews and QA coordination to ensure code quality and system reliability.",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "RabbitMQ",
+        "Kafka",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "GCP Cloud Run",
+        "AWS",
+        "Datadog"
+      ]
+    }
+  ]
+}

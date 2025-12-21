@@ -1,0 +1,104 @@
+{
+  "projects": [
+    {
+      "id": "proj-001",
+      "title": "FOMS - Enterprise Order Management Platform",
+      "description": "Enterprise-level vehicle order management system for federal GSA contracts",
+      "longDescription": "FOMS is a comprehensive order management platform developed for a major motor company's Marketing and Sales division, enabling complete lifecycle management of vehicle orders submitted through the General Services Administration (GSA). The system handles abstract maintenance, MVDO processing, order inquiries, and automated report generation, ensuring seamless and efficient handling of federal vehicle orders.",
+      "technologies": [
+        "Spring Boot",
+        "React TypeScript",
+        "PostgreSQL",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "GCP Cloud Run",
+        "Datadog"
+      ],
+      "highlights": [
+        "Designed and maintained robust RESTful APIs and microservices with focus on scalability and security",
+        "Implemented asynchronous communication using RabbitMQ and Kafka for reliable microservice interaction",
+        "Developed and maintained React-TypeScript frontend components enhancing performance and user engagement",
+        "Created comprehensive JUnit and integration test suites ensuring code reliability and continuous integration",
+        "Collaborated with DevOps teams on deployment across environments using Jenkins, Kubernetes, and Azure services",
+        "Coordinated with QA team using systematic root cause analysis to enhance application stability"
+      ],
+      "featured": true
+    },
+    {
+      "id": "proj-002",
+      "title": "VSO - Dealer Special Orders Platform",
+      "description": "Specialized configuration and pricing platform for customized fleet requirements",
+      "longDescription": "VSO is a specialized configuration and pricing platform designed to manage Dealer Special Orders, including police vehicles, ambulances, and other customized fleet requirements. The application provides end-to-end capabilities for VSO option inquiry, option maintenance, and accurate pricing. It integrates with OPS and downstream systems via the SODDB interface, ensuring validated configurations and smooth data flow across the order processing ecosystem.",
+      "technologies": [
+        "Spring Boot",
+        "React TypeScript",
+        "PostgreSQL",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "GCP Cloud Run",
+        "Datadog"
+      ],
+      "highlights": [
+        "Architected microservices for configuration management and pricing calculations",
+        "Implemented real-time messaging with RabbitMQ and Kafka for order processing",
+        "Developed React-TypeScript UI for option inquiry and maintenance workflows",
+        "Integrated with OPS and SODDB interface for validated configurations",
+        "Implemented multithreading for concurrent order processing and pricing",
+        "Deployed on GCP Cloud Run and Azure AKS with monitoring via Datadog"
+      ],
+      "featured": true
+    },
+    {
+      "id": "proj-003",
+      "title": "Crime Information Management System",
+      "description": "Admin system for managing crime and criminal information with public search features",
+      "longDescription": "A comprehensive crime information management platform where administrators can manage crime and criminal records efficiently. The system provides an intuitive admin interface for CRUD operations on crime and criminal data with assignment capabilities. Public users can search for criminals by name, search crimes by description, and view crime statistics for specific date ranges.",
+      "technologies": [
+        "Java",
+        "JDBC",
+        "MySQL"
+      ],
+      "highlights": [
+        "Developed comprehensive admin dashboard for managing crime and criminal records",
+        "Implemented role-based access control with separate admin and public user features",
+        "Created search functionality for criminals by name and crimes by description",
+        "Built crime statistics reporting with date range filtering",
+        "Designed secure login system for admin authentication",
+        "Completed individual project in 5 days with full CRUD operations using core Java"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/Sushil808174/Crime-Information-Management-System"
+    },
+    {
+      "id": "proj-004",
+      "title": "Online Cab Booking Application",
+      "description": "REST API-driven cab booking platform with user and admin management",
+      "longDescription": "A full-featured online cab booking application that provides comprehensive REST API services for booking cabs and managing users with two distinct roles: Admin and User. The system handles user authentication, cab booking management, and driver management with interactive API services. Admins can manage users, cab drivers, and vehicle information, while users can book cabs seamlessly.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Spring Boot",
+        "Maven",
+        "JPA",
+        "MySQL",
+        "Hibernate",
+        "Spring Security",
+        "Lombok",
+        "Swagger"
+      ],
+      "highlights": [
+        "Built user authentication with login and signin functionality for seamless cab booking",
+        "Created Driver entity with comprehensive JPA mapping and relationships",
+        "Implemented admin APIs for registering, retrieving, updating, and deleting drivers",
+        "Developed driver ranking and best drivers list functionality for better recommendations",
+        "Integrated Swagger for comprehensive API documentation and testing",
+        "Collaborated with 4-member team to deliver project in 6 days"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/akt0001c/fearful-doll-6867"
+    }
+  ]
+}
