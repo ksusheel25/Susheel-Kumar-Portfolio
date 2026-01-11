@@ -96,7 +96,7 @@ export function HeroSection() {
           >
             View My Work <ArrowRight size={20} />
           </Button>
-          <a href="/Susheel_Kumar.pdf" download="Susheel_Kumar.pdf">
+          <a href="public/Susheel_Kumar.pdf" download="Susheel_Kumar.pdf">
             <Button
               variant="outline"
               size="lg"
