@@ -162,19 +162,6 @@ npm run build
 # Deploy dist folder to gh-pages branch
 ```
 
-### Vercel (Recommended)
-
-1. Connect your GitHub repository to [Vercel](https://vercel.com)
-2. Vercel auto-detects Vite config
-3. Deploy with one click!
-
-### Netlify
-
-1. Connect your GitHub repository to [Netlify](https://netlify.com)
-2. Set build command: `npm run build`
-3. Set publish directory: `dist`
-4. Deploy!
-
 ## 🔧 Tech Stack
 
 - **React 19** - UI library
@@ -190,26 +177,3 @@ npm run build
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## ♿ Accessibility
-
-- Semantic HTML structure
-- Proper ARIA labels
-- Keyboard navigation support
-- Focus indicators for accessibility
-- Respects `prefers-reduced-motion`
-
-## 🎓 Learning Resources
-
-- [Framer Motion Docs](https://www.framer.com/motion/)
-- [Tailwind CSS Docs](https://tailwindcss.com/docs)
-- [React Docs](https://react.dev)
-- [Vite Docs](https://vitejs.dev)
-
-## 💡 Tips for Best Results
-
-1. **Customize the data** - Update all JSON files with your actual experience
-2. **Add your own images** - Consider adding project preview images
-3. **Update social links** - Add your real GitHub, LinkedIn, etc. URLs
-4. **Optimize performance** - Review Lighthouse report and address any issues
-5. **Test responsiveness** - Use DevTools to test on various screen sizes
